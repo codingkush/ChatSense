@@ -1,0 +1,15 @@
+# Ignore the local virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore VSCode or JetBrains (PyCharm) project settings
+.vscode/
+.idea/
+
+# Ignore macOS and Linux system files
+.DS_Store
+Thumbs.db
