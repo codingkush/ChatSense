@@ -16,3 +16,20 @@
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+```
+
+## ✨ ScreenShots: -------
+
+![Screenshot 2025-05-30 153620](https://github.com/user-attachments/assets/f8a9301d-8b25-406e-a7be-14ed7230f08d)
+
+![Screenshot 2025-05-30 155439](https://github.com/user-attachments/assets/23f47817-6506-4990-b42e-3343cc92fba0)
+
+![Screenshot 2025-05-30 155639](https://github.com/user-attachments/assets/c0b19c83-370d-41c6-af91-b375c00dd447)
+
+![Screenshot 2025-05-30 155655](https://github.com/user-attachments/assets/cc9b09e4-6a37-46e5-8462-45a4dbbebc22)
+
+
+
+
+
